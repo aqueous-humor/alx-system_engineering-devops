@@ -7,4 +7,8 @@ This is a list of scripts that help you do useful stuff in shell.
 3. 2-bring_me_home changes your working directory to your home directory.
 
 4. 3-listfiles displays the contents of your current directory in a long format.
- 
+
+
+
+
+5. 4-listmorefiles displays the contents of your current directory, including hidden files, in long format.
