@@ -23,3 +23,5 @@ This is a list of scripts that help you do useful stuff in shell.
 11. 10-back changes the working directory to the previous one.
 
 12. 11-lists list all files (including hidden files) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+13. 12-file_type prints the type of file named 'iamfile' in /tmp.
