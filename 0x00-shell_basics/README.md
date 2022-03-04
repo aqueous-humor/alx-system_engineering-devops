@@ -25,3 +25,5 @@ This is a list of scripts that help you do useful stuff in shell.
 12. 11-lists list all files (including hidden files) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
 13. 12-file_type prints the type of file named 'iamafile' in /tmp.
+
+14. 13-symbolic_link creates a symbolic link to /bin/ls named __ls__. Link is created in current working directory.
