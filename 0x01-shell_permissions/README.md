@@ -6,3 +6,7 @@ Here we have more commands useful for modifying user data and permissions.
 2. 1-who_am_i prints the effective username of the current user
 
 3. 2-groups prints out all groups the current user is in
+
+
+
+4. 3-new_owner changes the owner of a file
