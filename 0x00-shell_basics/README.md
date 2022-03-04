@@ -19,3 +19,5 @@ This is a list of scripts that help you do useful stuff in shell.
 9. 8-firstdelete deletes the file 'betty' from /tmp/my_first_directory.
 
 10. 9-firstdirdeletion deletes the directory 'my_first_directory' that is in the /tmp directory.
+
+11. 10-back changes the working directory to the previous one.
