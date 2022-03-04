@@ -8,7 +8,6 @@ This is a list of scripts that help you do useful stuff in shell.
 
 4. 3-listfiles displays the contents of your current directory in a long format.
 
-
-
-
 5. 4-listmorefiles displays the contents of your current directory, including hidden files, in long format.
+
+6. 5-listfilesdigitonly displays the content of your current directory including hidden files, in long format and with user and group IDs displayed numerically.
