@@ -13,3 +13,5 @@ This is a list of scripts that help you do useful stuff in shell.
 6. 5-listfilesdigitonly displays the content of your current directory including hidden files, in long format and with user and group IDs displayed numerically.
 
 7. 6-firstdirectory creates a directory named 'my_first_directory' in the /tmp directory.
+
+8. 7-movethatfile moves a file from one directory to another.
