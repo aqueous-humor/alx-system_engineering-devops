@@ -21,3 +21,5 @@ This is a list of scripts that help you do useful stuff in shell.
 10. 9-firstdirdeletion deletes the directory 'my_first_directory' that is in the /tmp directory.
 
 11. 10-back changes the working directory to the previous one.
+
+12. 11-lists list all files (including hidden files) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
