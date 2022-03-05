@@ -30,3 +30,5 @@ Here we have more commands useful for modifying user data and permissions.
 11. 10-mirror_permissions sets the mode of file hello to the same mode as file olleh
 
 12. 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, group owner and all other users
+
+13. 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
