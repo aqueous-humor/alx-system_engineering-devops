@@ -27,4 +27,4 @@ Here we have more commands useful for modifying user data and permissions.
   - Group: Read and Execute
   - Other users: Write and execute
 
-11. 10-mirror sets the mode of file hello to the same mode as file olleh
+11. 10-mirror_permissions sets the mode of file hello to the same mode as file olleh
