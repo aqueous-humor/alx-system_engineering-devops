@@ -22,3 +22,8 @@ Here we have more commands useful for modifying user data and permissions.
   - Group: no permissions at all
   - Other users: all the permisions
 
+10. 9-John_Doe sets mode of file hello thus:
+  - Owner: all permissions
+  - Group: Read and Execute
+  - Other users: Write and execute
+
