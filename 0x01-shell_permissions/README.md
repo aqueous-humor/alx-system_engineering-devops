@@ -7,6 +7,6 @@ Here we have more commands useful for modifying user data and permissions.
 
 3. 2-groups prints out all groups the current user is in
 
-
-
 4. 3-new_owner changes the owner of a file
+
+5. 4-empty creates an empty file called hello
