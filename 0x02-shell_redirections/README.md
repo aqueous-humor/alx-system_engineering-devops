@@ -8,4 +8,6 @@ In this repo we have commands that perform input output redirection tasks
 
 4. 3-twofiles displays the contents of both /etc/passwd and /etc/hosts
 
-5. 
+5. 4-lastlines displays the last 10 lines of the /etc/passwd
+
+6. 
