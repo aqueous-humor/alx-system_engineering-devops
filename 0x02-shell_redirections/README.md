@@ -4,4 +4,6 @@ In this repo we have commands that perform input output redirection tasks
 
 2. 1-confused_smiley displays a confused smiley "(Ôo)'
 
-3. 
+3. 2-hellofile displays the content of the /etc/passwd file
+
+4. 
