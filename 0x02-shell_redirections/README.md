@@ -6,4 +6,6 @@ In this repo we have commands that perform input output redirection tasks
 
 3. 2-hellofile displays the content of the /etc/passwd file
 
-4. 
+4. 3-twofiles displays the contents of both /etc/passwd and /etc/hosts
+
+5. 
