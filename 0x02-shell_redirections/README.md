@@ -20,4 +20,6 @@ In this repo we have commands that perform input output redirection tasks
 
 10. 9-duplicate_last_line duplicates the last line of the file iacta
 
-11. 
+11. 10-no_more_js deletes all the regular files with .js extension in the current directory and all its sub directories
+
+12. 
