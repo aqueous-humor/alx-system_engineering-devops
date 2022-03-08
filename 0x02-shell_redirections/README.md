@@ -22,4 +22,6 @@ In this repo we have commands that perform input output redirection tasks
 
 11. 10-no_more_js deletes all the regular files with .js extension in the current directory and all its sub directories
 
-12. 
+12. 11-directories counts the number of directories and subdirectories in the current directory. Hidden directories are counted, and the current and parent directories are not taken into account
+
+13. 
