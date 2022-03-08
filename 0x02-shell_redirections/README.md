@@ -24,4 +24,8 @@ In this repo we have commands that perform input output redirection tasks
 
 12. 11-directories counts the number of directories and subdirectories in the current directory. Hidden directories are counted, and the current and parent directories are not taken into account
 
-13. 
+13. 12-newest_files displays the 10 newest files in the current directory one file per line and sorted from the newest to the oldest
+
+14. 13-unique takes a list of words as input and prints only words that appear exactly once. Input and output format is one line one word and words are sorted
+
+15. 
