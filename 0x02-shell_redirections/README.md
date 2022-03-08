@@ -12,4 +12,6 @@ In this repo we have commands that perform input output redirection tasks
 
 6. 5-firstlines displays the first 10 lines of the /etc/passwd file
 
-7. 
+7. 6-third_line displays the third line of the file iacta
+
+8. 
