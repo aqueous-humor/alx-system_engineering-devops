@@ -10,4 +10,6 @@ This repo contains scripts that perform expansions
 
 5. 4-global_variables lists the environment variables
 
-6. 
+6. 5-local_variables lists all local variables and environment variables, and functions.
+
+7. 
