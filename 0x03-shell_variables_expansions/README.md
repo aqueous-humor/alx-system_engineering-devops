@@ -8,4 +8,6 @@ This repo contains scripts that perform expansions
 
 4. 3-path counts the number of directories in the PATH
 
-5. 
+5. 4-global_variables lists the environment variables
+
+6. 
