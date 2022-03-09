@@ -14,4 +14,6 @@ This repo contains scripts that perform expansions
 
 7. 6-create_local_variable creates a new local variable
 
-8. 
+8. 7-create_global_variable creates a new global variable
+
+9. 
