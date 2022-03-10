@@ -22,4 +22,6 @@ This repo contains scripts that perform expansions
 
 11. 10-love_exponent_breath displays the result of env BREATH to the power of env LOVE.
 
-12. 
+12. 11-binary_to_decimal converts a number in env BINARY from base 2 to base 10.
+
+13. 
