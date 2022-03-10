@@ -24,4 +24,6 @@ This repo contains scripts that perform expansions
 
 12. 11-binary_to_decimal converts a number in env BINARY from base 2 to base 10.
 
-13. 
+13. 12-combinations prints all possible combinations of two lower case letters except oo in alphabetical order and one combination per line.
+
+14. 
