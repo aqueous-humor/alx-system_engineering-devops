@@ -26,4 +26,6 @@ This repo contains scripts that perform expansions
 
 13. 12-combinations prints all possible combinations of two lower case letters except oo in alphabetical order and one combination per line.
 
-14. 
+14. 13-print_float prints a number stored in env NUM with two decimal places, followed by a new line.
+
+15. 
