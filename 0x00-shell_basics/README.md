@@ -28,4 +28,8 @@ This is a list of scripts that help you do useful stuff in shell.
 
 14. 13-symbolic_link creates a symbolic link to /bin/ls named __ls__. Link is created in current working directory.
 
-15. 14-copy_html copies all HTML files from the current working directory to the parent of the working directory. Only files that did not exist in the parent of the working directory or are newer than the versions in the parent working directory will be copied.
+15. 14-copy_html copies
+
+16 100-lets_move moves all files beginning with an uppercase letter to the directory `/tmp/u`
+
+17.
