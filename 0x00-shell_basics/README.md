@@ -36,4 +36,10 @@ This is a list of scripts that help you do useful stuff in shell.
 
 18. 102-tree creates three directories `welcome/`, `welcome/to/` and `welcome/to/school` as a directory tree in the current directory.
 
-19. 
+19. 103-commas lists all the files and directories of the current directory, separated by commas ie `,`. The list will go thus :
+
+   * Directory names should end with `/`
+   * Hidden files should be listed
+   * The listing should be alpha ordered, except for the directories `.` and `..` which should be at the beginning.
+   * Only digits and letters are used to sort; Digits comes first
+
