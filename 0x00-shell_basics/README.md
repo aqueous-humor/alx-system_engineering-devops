@@ -32,4 +32,4 @@ This is a list of scripts that help you do useful stuff in shell.
 
 16 100-lets_move moves all files beginning with an uppercase letter to the directory `/tmp/u`
 
-17.
+17. 101-clean_emacs deletes all the files in the current working directory that end with character `~`.
